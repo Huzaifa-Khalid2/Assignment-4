@@ -1,6 +1,6 @@
 body {
   color:white;
-  margin-left: 40px. 
+  margin-left: 40px;
   color: white;
   background-color: grey;
 }
@@ -13,9 +13,9 @@ p style {
 } 
 
 div {
-background-color: grey;
-width: 250px;
-border: 5px solid yellow;
-padding: 15px;
-margin: 0px;
+  background-color: grey;
+  width: 250px;
+  border: 5px solid yellow;
+  padding: 15px;
+  margin: 0px;
 }
